@@ -1,15 +1,10 @@
 # share_all
 
-A new Flutter project.
+A new Flutter Plugin to share text and to email.
 
-## Getting Started
+## Example 
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://user-images.githubusercontent.com/33664603/215718573-81d5195e-4899-4a00-85a0-bedc0f3281d4.mov
 
